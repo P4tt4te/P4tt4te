@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello i'am a french student in France 👋
+![](https://github.com/username/github-stats/blob/master/generated/languages.svg)
 
 <!--
 **P4tt4te/P4tt4te** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
