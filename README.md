@@ -1,7 +1,7 @@
 ### Hello i'am a french student in France 👋
 # Stats :
-![](https://github.com/P4tt4te/my-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
-![](https://github.com/P4tt4te/my-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/P4tt4te/my-stats/blob/master/generated/overview.svg)
+![](https://github.com/P4tt4te/my-stats/blob/master/generated/languages.svg)
 <!--
 **P4tt4te/P4tt4te** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
